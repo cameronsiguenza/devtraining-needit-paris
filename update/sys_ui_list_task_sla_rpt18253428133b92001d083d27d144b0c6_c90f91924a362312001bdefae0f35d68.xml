@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="c90f91924a362312001bdefae0f35d68" table="task_sla" version="2" view="RPT18253428133b92001d083d27d144b0c6">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>task</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="c90f91924a362312001bdefae0f35d68" view="34e867ee2f036010ec6bd4a72799b675">60253428133b92001d083d27d144b0c7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>csiguenz</sys_created_by>
+            <sys_created_on>2016-05-31 16:44:57</sys_created_on>
+            <sys_id>602530a8133b92001d083d27d144b085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>csiguenz</sys_updated_by>
+            <sys_updated_on>2016-05-31 16:44:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>sla</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="c90f91924a362312001bdefae0f35d68" view="34e867ee2f036010ec6bd4a72799b675">60253428133b92001d083d27d144b0c7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>csiguenz</sys_created_by>
+            <sys_created_on>2016-05-31 16:44:57</sys_created_on>
+            <sys_id>a02530a8133b92001d083d27d144b085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>csiguenz</sys_updated_by>
+            <sys_updated_on>2016-05-31 16:44:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>stage</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="c90f91924a362312001bdefae0f35d68" view="34e867ee2f036010ec6bd4a72799b675">60253428133b92001d083d27d144b0c7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>csiguenz</sys_created_by>
+            <sys_created_on>2016-05-31 16:44:57</sys_created_on>
+            <sys_id>e02530a8133b92001d083d27d144b085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>csiguenz</sys_updated_by>
+            <sys_updated_on>2016-05-31 16:44:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>time_left</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="c90f91924a362312001bdefae0f35d68" view="34e867ee2f036010ec6bd4a72799b675">60253428133b92001d083d27d144b0c7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>csiguenz</sys_created_by>
+            <sys_created_on>2016-05-31 16:44:57</sys_created_on>
+            <sys_id>242530a8133b92001d083d27d144b085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>csiguenz</sys_updated_by>
+            <sys_updated_on>2016-05-31 16:44:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>percentage</element>
+            <list_id display_value="task_sla" element="NULL" name="task_sla" parent="NULL" relationship="NULL" sys_domain="c90f91924a362312001bdefae0f35d68" view="34e867ee2f036010ec6bd4a72799b675">60253428133b92001d083d27d144b0c7</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>csiguenz</sys_created_by>
+            <sys_created_on>2016-05-31 16:44:57</sys_created_on>
+            <sys_id>642530a8133b92001d083d27d144b085</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>csiguenz</sys_updated_by>
+            <sys_updated_on>2016-05-31 16:44:57</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>task_sla</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>csiguenz</sys_created_by>
+            <sys_created_on>2016-05-31 16:44:57</sys_created_on>
+            <sys_domain>c90f91924a362312001bdefae0f35d68</sys_domain>
+            <sys_domain_path/>
+            <sys_id>60253428133b92001d083d27d144b0c7</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>task_sla</sys_name>
+            <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+            <sys_update_name>sys_ui_list_task_sla_RPT18253428133b92001d083d27d144b0c6_c90f91924a362312001bdefae0f35d68</sys_update_name>
+            <sys_updated_by>csiguenz</sys_updated_by>
+            <sys_updated_on>2016-05-31 16:44:57</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt18253428133b92001d083d27d144b0c6" name="RPT18253428133b92001d083d27d144b0c6">34e867ee2f036010ec6bd4a72799b675</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

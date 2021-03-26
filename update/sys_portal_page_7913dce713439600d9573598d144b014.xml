@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-03-26 16:34:56">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout display_value="layout_2_across">f6defafa0a0a0b12000d5016bd12ff06</layout>
+        <order/>
+        <read_roles>u_amp_customer_onboarding_user,u_amp_customer_onboarding_tasks_user</read_roles>
+        <roles/>
+        <selectable>true</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>pamercad</sys_created_by>
+        <sys_created_on>2016-05-03 15:10:53</sys_created_on>
+        <sys_domain>c90f91924a362312001bdefae0f35d68</sys_domain>
+        <sys_domain_path/>
+        <sys_id>7913dce713439600d9573598d144b014</sys_id>
+        <sys_mod_count>4</sys_mod_count>
+        <sys_name>AMP Customer Summary</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_portal_page_7913dce713439600d9573598d144b014</sys_update_name>
+        <sys_updated_by>pamercad</sys_updated_by>
+        <sys_updated_on>2016-05-03 15:17:24</sys_updated_on>
+        <title>AMP Customer Summary</title>
+        <user/>
+        <view/>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>0</offset>
+                <page display_value="AMP Customer Summary">7913dce713439600d9573598d144b014</page>
+                <summary/>
+                <sys_created_by>pamercad</sys_created_by>
+                <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                <sys_id>11d3146b13439600d9573598d144b0a1</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>pamercad</sys_updated_by>
+                <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">11d3146b13439600d9573598d144b0a1</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>51d3146b13439600d9573598d144b0a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>AMP Customers by Tier Size</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">11d3146b13439600d9573598d144b0a1</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>55d3146b13439600d9573598d144b0a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">11d3146b13439600d9573598d144b0a1</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d1d3146b13439600d9573598d144b0a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>690fc33f4f56960093e49a211310c768</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">11d3146b13439600d9573598d144b0a1</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d5d3146b13439600d9573598d144b0a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>7913dce713439600d9573598d144b014</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>2</offset>
+                <page display_value="AMP Customer Summary">7913dce713439600d9573598d144b014</page>
+                <summary/>
+                <sys_created_by>pamercad</sys_created_by>
+                <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                <sys_id>15d3146b13439600d9573598d144b0a2</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>pamercad</sys_updated_by>
+                <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">15d3146b13439600d9573598d144b0a2</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>55d3146b13439600d9573598d144b0a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>AMP Customer by Sector</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">15d3146b13439600d9573598d144b0a2</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>59d3146b13439600d9573598d144b0a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">15d3146b13439600d9573598d144b0a2</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d5d3146b13439600d9573598d144b0a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>68a92b904f7e9a0093e49a211310c776</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">15d3146b13439600d9573598d144b0a2</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d9d3146b13439600d9573598d144b0a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>7913dce713439600d9573598d144b014</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>1</offset>
+                <page display_value="AMP Customer Summary">7913dce713439600d9573598d144b014</page>
+                <summary/>
+                <sys_created_by>pamercad</sys_created_by>
+                <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                <sys_id>19d3146b13439600d9573598d144b0a3</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>pamercad</sys_updated_by>
+                <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">19d3146b13439600d9573598d144b0a3</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>59d3146b13439600d9573598d144b0a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>AMP Customers by Offer</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">19d3146b13439600d9573598d144b0a3</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>5dd3146b13439600d9573598d144b0a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">19d3146b13439600d9573598d144b0a3</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d9d3146b13439600d9573598d144b0a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>cbdecffb4f56960093e49a211310c71f</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">19d3146b13439600d9573598d144b0a3</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>ddd3146b13439600d9573598d144b0a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>7913dce713439600d9573598d144b014</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>2</offset>
+                <page display_value="AMP Customer Summary">7913dce713439600d9573598d144b014</page>
+                <summary/>
+                <sys_created_by>pamercad</sys_created_by>
+                <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                <sys_id>91d3146b13439600d9573598d144b0a4</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>pamercad</sys_updated_by>
+                <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">91d3146b13439600d9573598d144b0a4</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>55d3146b13439600d9573598d144b0a4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>5e1f073f4f56960093e49a211310c768</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">91d3146b13439600d9573598d144b0a4</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>59d3146b13439600d9573598d144b0a4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>7913dce713439600d9573598d144b014</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">91d3146b13439600d9573598d144b0a4</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d1d3146b13439600d9573598d144b0a4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>AMP Customers by Type</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">91d3146b13439600d9573598d144b0a4</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d5d3146b13439600d9573598d144b0a4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone0</dropzone>
+                <offset>0</offset>
+                <page display_value="AMP Customer Summary">7913dce713439600d9573598d144b014</page>
+                <summary/>
+                <sys_created_by>pamercad</sys_created_by>
+                <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                <sys_id>95d3146b13439600d9573598d144b0a0</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>pamercad</sys_updated_by>
+                <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">95d3146b13439600d9573598d144b0a0</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>59d3146b13439600d9573598d144b0a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>167fc4e713439600d9573598d144b0e8</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">95d3146b13439600d9573598d144b0a0</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>5dd3146b13439600d9573598d144b0a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>7913dce713439600d9573598d144b014</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">95d3146b13439600d9573598d144b0a0</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d5d3146b13439600d9573598d144b0a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>AMP Avg Time SLA</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">95d3146b13439600d9573598d144b0a0</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d9d3146b13439600d9573598d144b0a0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone1</dropzone>
+                <offset>1</offset>
+                <page display_value="AMP Customer Summary">7913dce713439600d9573598d144b014</page>
+                <summary/>
+                <sys_created_by>pamercad</sys_created_by>
+                <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                <sys_id>99d3146b13439600d9573598d144b0a1</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>pamercad</sys_updated_by>
+                <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">99d3146b13439600d9573598d144b0a1</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>51d3146b13439600d9573598d144b0a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>7913dce713439600d9573598d144b014</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">99d3146b13439600d9573598d144b0a1</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>5dd3146b13439600d9573598d144b0a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>6cfecffb4f56960093e49a211310c7d7</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">99d3146b13439600d9573598d144b0a1</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d9d3146b13439600d9573598d144b0a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>AMP Customers by Theater</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">99d3146b13439600d9573598d144b0a1</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>ddd3146b13439600d9573598d144b0a1</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone>dropzone2</dropzone>
+                <offset>0</offset>
+                <page display_value="AMP Customer Summary">7913dce713439600d9573598d144b014</page>
+                <summary/>
+                <sys_created_by>pamercad</sys_created_by>
+                <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                <sys_id>9dd3146b13439600d9573598d144b0a2</sys_id>
+                <sys_mod_count>0</sys_mod_count>
+                <sys_updated_by>pamercad</sys_updated_by>
+                <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">9dd3146b13439600d9573598d144b0a2</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>51d3146b13439600d9573598d144b0a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>ce59ce014f3ada0093e49a211310c73a</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>current_page</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">9dd3146b13439600d9573598d144b0a2</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>55d3146b13439600d9573598d144b0a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>7913dce713439600d9573598d144b014</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">9dd3146b13439600d9573598d144b0a2</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>d1d3146b13439600d9573598d144b0a3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderDashboard</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 05-03-2016 11:14:08">9dd3146b13439600d9573598d144b0a2</portal_section>
+                        <sys_created_by>pamercad</sys_created_by>
+                        <sys_created_on>2016-05-03 15:14:08</sys_created_on>
+                        <sys_id>ddd3146b13439600d9573598d144b0a2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>pamercad</sys_updated_by>
+                        <sys_updated_on>2016-05-03 15:14:08</sys_updated_on>
+                        <value>AMP Customer by LOB</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>
